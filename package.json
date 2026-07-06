@@ -1,0 +1,6 @@
+{
+  "name": "x-following-export",
+  "version": "1.0.0",
+  "scripts": { "start": "node export.js" },
+  "dependencies": { "playwright": "^1.44.0" }
+}
