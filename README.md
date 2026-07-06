@@ -35,7 +35,7 @@ All available options are documented in `.env.example`.
 5. Save as **`cookies.json`** in the same folder as `start.bat`
 
 ```
-x-following-export/
+project-root/
   .env
   cookies.json    <-- here
   export.js
@@ -61,7 +61,7 @@ Double-click **`start.bat`**
 
 ## Output
 
-The `tracked.json` is directly compatible with the X Downloader:
+The `tracked.json` is directly compatible with the X Downloader **(not yet available to the public)**:
 
 ```json
 {
@@ -76,7 +76,7 @@ The `tracked.json` is directly compatible with the X Downloader:
 Copy it to the X Downloader config folder:
 
 ```
-/mnt/main/media/x-dl/config/tracked.json
+/project-root/config/tracked.json
 ```
 
 ---
