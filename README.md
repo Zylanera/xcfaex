@@ -1,4 +1,4 @@
-# X Following Exporter
+# X Following Exporter (xcfaex)
 
 Exports all accounts from an X/Twitter following list as `tracked.json`.
 
