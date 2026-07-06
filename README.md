@@ -1,6 +1,6 @@
 # X Following Exporter (xcfaex)
 
-Exports all accounts from an X/Twitter following list as `tracked.json`.
+Exports all accounts from an X/Twitter following list as `tracked.json` => Useful for [X Downloader (xdlwui)](https://github.com/Zylanera/xdlwui)
 
 ---
 
@@ -61,7 +61,7 @@ Double-click **`start.bat`**
 
 ## Output
 
-The `tracked.json` is directly compatible with the X Downloader **(not yet available to the public)**:
+The `tracked.json` is directly compatible with the [X Downloader (xdlwui)](https://github.com/Zylanera/xdlwui):
 
 ```json
 {
@@ -73,7 +73,7 @@ The `tracked.json` is directly compatible with the X Downloader **(not yet avail
 }
 ```
 
-Copy it to the X Downloader config folder:
+Copy it to the [X Downloader (xdlwui)](https://github.com/Zylanera/xdlwui) config folder:
 
 ```
 /project-root/config/tracked.json
